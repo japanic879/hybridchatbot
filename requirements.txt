@@ -2,6 +2,6 @@ streamlit
 scikit-learn
 pandas
 numpy
-tensorflow
+tensorflow>=2.13
 transformers
 openpyxl
