@@ -1,3 +1,7 @@
 streamlit
-scikitlearn
+scikit-learn
 pandas
+numpy
+tensorflow
+transformers
+openpyxl
